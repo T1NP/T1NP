@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @T1NP
-- 👀 I’m interested in JS, C++
+- 👀 C++ devlopper 
 - 🌱 I’m currently learning C 
 
 - Thanks
